@@ -1,23 +1,27 @@
-# {{name}}
+# Thinking in React
+
+Clojurescript port of JS in https://www.udemy.com/course/react-clarified-thinking-in-react/
+
+> Built with shadow-cljs and Reagent
 
 ## Run
 
 ``` shell
-yarn install
+npm run install
 
-yarn watch
+npm run watch
 ```
 
 ## Clean
 
 ``` shell
-yarn clean
+npm run clean
 ```
 
 ## Release
 
 ``` shell
-yarn release
+npm run release
 ```
 
 ## License
