@@ -7,7 +7,7 @@ Clojurescript port of JS in https://www.udemy.com/course/react-clarified-thinkin
 ## Run
 
 ``` shell
-npm run install
+npm install
 
 npm run watch
 ```
